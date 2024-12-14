@@ -4,6 +4,6 @@ logDir="/var/log/hostname"
 
 export $logDir
 
-chmod +x calling.sh
+chmod +x 08-calling.sh
 
 ./calling.sh
