@@ -1,8 +1,8 @@
 #!/bin/bash
 
-log_dir="/var/log/hostname"
+logDir="/var/log/hostname"
 
-export $log_dir
+export $logDir
 
 chmod +x calling.sh
 

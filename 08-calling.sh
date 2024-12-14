@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "log dir: $log_dir"
+echo "log dir: $logDir"
