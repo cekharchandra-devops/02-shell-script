@@ -1,6 +1,6 @@
 #!/bin/bash
 
-log_dir="/var/log/host_name"
+log_dir="/var/log/hostname"
 
 export $log_dir
 
