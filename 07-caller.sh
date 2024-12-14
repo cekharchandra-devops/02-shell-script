@@ -2,7 +2,7 @@
 
 logDir="/var/log/hostname"
 
-export $logDir
+export logDir
 
 chmod +x 08-calling.sh
 
