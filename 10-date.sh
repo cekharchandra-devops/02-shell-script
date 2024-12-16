@@ -3,4 +3,4 @@
 date=$(date +%F)
 time=$(date +%T)
 
-echo "date and time:" $date'T'$time
+echo "date and time: $date'T'$time"
